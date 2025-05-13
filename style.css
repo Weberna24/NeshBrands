@@ -774,8 +774,6 @@ body.active{
   .event-section{
     width: 100%;
     height: 100%;
-    padding-top: 2rem;
-    padding-bottom: 4rem;
     background: url('images/annie-spratt-zA7I5BtFbvw-unsplash.jpg');
     object-fit: cover;
     background-size: cover;
