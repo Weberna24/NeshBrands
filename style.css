@@ -655,8 +655,7 @@ body.active{
     display: grid;
     gap: 2rem;
     padding: 0rem 2rem;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 300px 300px 300px;
   }
 
   .menu-container{
@@ -1470,7 +1469,7 @@ body.active{
     }
     
     .service-container{
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 300px 300px 300px;
     }
    
     .service-paragraph{
@@ -1717,6 +1716,6 @@ body.active{
     }
 
     .service-container{
-      grid-template-columns: 1fr;
+      grid-template-columns: 300px;
     }
   }
